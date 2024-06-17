@@ -4,7 +4,7 @@ The Weather app which fetch's data from real world Api and shows the data such a
 
 Overview: Developed a dynamic and user-friendly weather application that fetches real-time weather data from a reliable third-party API.
 Key Features:
-Real-Time Data: Provides up-to-date weather information including temperature, humidity, wind speed, and forecast for the next few days.
+Real-Time Data: Provides up-to-date weather information including temperature, humidity, wind speed, and forecast for the current day.
 Search Functionality: Allows users to search for weather updates in any city around the world.
 Interactive UI: Features an intuitive and visually appealing interface with weather icons and background images that change based on the weather conditions.
 Geolocation: Automatically detects the user's location and displays the current weather.
